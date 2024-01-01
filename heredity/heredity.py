@@ -2,6 +2,8 @@ import csv
 import itertools
 import sys
 
+# Gene probablity distribution calculor
+
 PROBS = {
 
     # Unconditional probabilities for having gene
